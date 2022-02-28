@@ -1,0 +1,19 @@
+segment_sources:
+  P4B530174:
+    type: origin_type
+    relation: translation
+    language: en
+  PD6E5AF10:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  818cd4cfced2429b884b5ccc1846c920:
+    P4B530174: 89388ce9b3194b4fbae9da22dffc8008
+    PD6E5AF10: b45765de6cc34d5daae01b3bcab5a58c
+  3283d1739d1b4f90a1c429b98374b349:
+    P4B530174: 182c4f8d6b624a6e8db8996b6881f57c
+    PD6E5AF10: b2afc14c22c043d1aa08da9cbebc9691
+  d44bb4ad1b2841568d41991da7451769:
+    P4B530174: 94ea2da8f40d48fb88680bcf81a4d0d5
+    PD6E5AF10: c11ed620843d4cb8aad1bba406580935
